@@ -1,0 +1,2 @@
+# ubuntu-debootstrap
+debootsrapped ubuntu
